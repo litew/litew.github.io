@@ -1,7 +1,0 @@
-= litew.github.io
-
-image:https://github.com/litew/litew.github.io/actions/workflows/asciidoctor-ghpages.yml/badge.svg?branch=main[https://github.com/litew/litew.github.io/actions/workflows/asciidoctor-ghpages.yml]
-image:https://github.com/litew/litew.github.io/actions/workflows/pages/pages-build-deployment/badge.svg[https://github.com/litew/litew.github.io/actions/workflows/pages/pages-build-deployment]
-
-* https://litew.github.io/linux-audit-notes[linux audit notes]
-* https://litew.github.io/freeipa-notes[freeipa notes]
